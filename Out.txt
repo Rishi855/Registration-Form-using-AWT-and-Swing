@@ -1,6 +1,6 @@
-Name: Simran
-Gender: Female
-Father name: B.
-Password: Simran123
+Name: Rushikesh
+Gender: Male
+Father name: Rajsheskhar
+Password: Swami@7777
 City: Solapur
-Email: simran@gmail.com
+Email: rushikeshs855@gmail.com
