@@ -1,0 +1,6 @@
+Name: Simran
+Gender: Female
+Father name: B.
+Password: Simran123
+City: Solapur
+Email: simran@gmail.com
